@@ -3,7 +3,7 @@
 ##basics
 
 
-chapter2 - Binary Search
+###chapter2 - Binary Search
 60. Search Insert Position Easy
 28. Search a 2D Matrix Easy
 14. First Position of Target Easy
@@ -15,7 +15,7 @@ chapter2 - Binary Search
 62. Search in Rotated Sorted Array Medium
 61. Search for a Range
 
-chapter3 Binary Tree & Divide Conquer
+###chapter3 Binary Tree & Divide Conquer
 
 97. Maximum Depth of Binary Tree Easy
 93. Balanced Binary Tree Easy
@@ -47,7 +47,7 @@ chapter3 Binary Tree & Divide Conquer
 87. Remove Node in Binary Search Tree
 
 
-chapter4 - Dynamic Programming I
+###chapter4 - Dynamic Programming I
 115. Unique Paths II Easy
 114. Unique Paths Easy
 111. Climbing Stairs Easy
@@ -57,7 +57,7 @@ chapter4 - Dynamic Programming I
 116. Jump Game Medium
 76. Longest Increasing Subsequence
 
-chapter5- Dynamic Programming II
+###chapter5- Dynamic Programming II
 119. Edit Distance Medium
 118. Distinct Subsequences Medium
 107. Word Break Medium
@@ -73,8 +73,8 @@ chapter5- Dynamic Programming II
 (uncompleted) 91. Minimum Adjustment Cost Medium
 
 
-chapter6 - Linked List
- 174. Remove Nth Node From End of List Easy
+###chapter6 - Linked List
+174. Remove Nth Node From End of List Easy
 96. Partition List Easy
 113. Remove Duplicates from Sorted List II Medium
 106. Convert Sorted List to Balanced BST Medium
@@ -106,7 +106,7 @@ chapter6 - Linked List
 (uncompleted) 112. Remove Duplicates from Sorted List Easy
 
 
-chapter7 - Array & Numbers
+###chapter7 - Array & Numbers
 547. Intersection of Two Arrays Easy
 138. Subarray Sum Easy
 64. Merge Sorted Array Easy
@@ -134,7 +134,7 @@ chapter7 - Array & Numbers
 (uncompleted) 43. Maximum Subarray III
 
 
-chapter8 - Data Structure
+###chapter8 - Data Structure
 128. Hash Function Easy
 544. Top k Largest Numbers Medium
 486. Merge k Sorted Arrays Medium
@@ -163,7 +163,7 @@ chapter8 - Data Structure
 
 
 
-chapter9 - Graph & Search
+###chapter9 - Graph & Search
 531. Six Degrees Medium
 136. Palindrome Partitioning Medium
 431. Find the Connected Component in the Undirected Graph Medium
