@@ -440,6 +440,7 @@ chapter16—Threads and Locks
 #leetcode-185 completed
 
 1Two Sum Easy
+
 2Add Two Numbers Medium
 
 3	Longest Substring Without Repeating Characters  	Medium
@@ -527,145 +528,283 @@ chapter16—Threads and Locks
 84	Largest Rectangle in Histogram  	Hard
 
 85	Maximal Rectangle  	Hard
+
 86	Partition List  	Medium
+
 88	Merge Sorted Array  	Easy
+
 90	Subsets II  	Medium
+
 92	Reverse Linked List II  	Medium
+
 94	Binary Tree Inorder Traversal  	Medium
+
 95	Unique Binary Search Trees II  	Medium
+
 96	Unique Binary Search Trees  	Medium
+
 98	Validate Binary Search Tree  	Medium
+
 99	Recover Binary Search Tree  	Hard
+
 100	Same Tree  	Easy
+
 101	Symmetric Tree  	Easy
+
 102	Binary Tree Level Order Traversal  	Easy
+
 103	Binary Tree Zigzag Level Order Traversal  	Medium
+
 104	Maximum Depth of Binary Tree  	Easy
+
 105	Construct Binary Tree from Preorder and Inorder Traversal  	Medium
+
 106	Construct Binary Tree from Inorder and Postorder Traversal  	Medium
+
 108	Convert Sorted Array to Binary Search Tree  	Medium
+
 113	Path Sum II  	Medium
+
 114	Flatten Binary Tree to Linked List  	Medium
+
 116	Populating Next Right Pointers in Each Node  	Medium
+
 117	Populating Next Right Pointers in Each Node II  	Hard
+
 121	Best Time to Buy and Sell Stock  	Easy
+
 122	Best Time to Buy and Sell Stock II  	Medium
+
 127	Word Ladder  	Medium
+
 128	Longest Consecutive Sequence  	Hard
+
 129	Sum Root to Leaf Numbers  	Medium
+
 133	Clone Graph  	Medium
+
 134	Gas Station  	Medium
+
 136	Single Number  	Easy
+
 137	Single Number II  	Medium
+
 139	Word Break  	Medium
+
 140	Word Break II  	Hard
+
 144	Binary Tree Preorder Traversal  	Medium
+
 145	Binary Tree Postorder Traversal  	Hard
+
 146	LRU Cache  	Hard
+
 148	Sort List  	Medium
+
 150	Evaluate Reverse Polish Notation  	Medium
+
 151	Reverse Words in a String  	Medium
+
 152	Maximum Product Subarray  	Medium
+
 156	Binary Tree Upside Down  	Medium
+
 159	Longest Substring with At Most Two Distinct Characters  	Hard
+
 161	One Edit Distance  	Medium
+
 162	Find Peak Element  	Medium
+
 164	Maximum Gap  	Hard
+
 167	Two Sum II - Input array is sorted  	Medium
+
 169	Majority Element  	Easy
+
 173	Binary Search Tree Iterator  	Medium
+
 179	Largest Number  	Medium
+
 187	Repeated DNA Sequences  	Medium
+
 189	Rotate Array  	Easy
+
 190	Reverse Bits  	Easy
+
 191	Number of 1 Bits  	Easy
+
 198	House Robber  	Easy
+
 199	Binary Tree Right Side View  	Medium
+
 200	Number of Islands  	Medium
-		
+	
 202	Happy Number  	Easy
+
 205	Isomorphic Strings  	Easy
+
 207	Course Schedule  	Medium
+
 208	Implement Trie (Prefix Tree)  	Medium
+
 209	Minimum Size Subarray Sum  	Medium
+
 211	Add and Search Word - Data structure design  	Medium
+
 212	Word Search II  	Hard
+
 213	House Robber II  	Medium
+
 215	Kth Largest Element in an Array  	Medium
+
 216	Combination Sum III  	Medium
+
 218	The Skyline Problem  	Hard
+
 221	Maximal Square  	Medium
+
 224	Basic Calculator  	Hard
+
 226	Invert Binary Tree  	Easy
+
 228	Summary Ranges  	Medium
+
 230	Kth Smallest Element in a BST  	Medium
+
 231	Power of Two  	Easy
+
 234	Palindrome Linked List  	Easy
+
 235	Lowest Common Ancestor of a Binary Search Tree  	Easy
+
 236	Lowest Common Ancestor of a Binary Tree  	Medium
+
 238	Product of Array Except Self  	Medium
+
 239	Sliding Window Maximum  	Hard
+
 242	Valid Anagram  	Easy
+
 243	Shortest Word Distance  	Easy
+
 245	Shortest Word Distance III  	Medium
+
 250	Count Univalue Subtrees  	Medium
+
 252	Meeting Rooms  	Easy
+
 253	Meeting Rooms II  	Medium
+
 256	Paint House  	Medium
+
 258	Add Digits  	Easy
+
 260	Single Number III  	Medium
+
 261	Graph Valid Tree  	Medium
+
 263	Ugly Number  	Easy
+
 264	Ugly Number II  	Medium
+
 266	Palindrome Permutation  	Easy
+
 268	Missing Number  	Medium
+
 269	Alien Dictionary  	Hard
+
 270	Closest Binary Search Tree Value  	Easy
+
 274	H-Index  	Medium
+
 280	Wiggle Sort  	Medium
+
 281	Zigzag Iterator  	Medium
+
 283	Move Zeroes  	Easy
+
 285	Inorder Successor in BST  	Medium
+
 289	Game of Life  	Medium
+
 292	Nim Game  	Easy
+
 293	Flip Game  	Easy
+
 295	Find Median from Data Stream  	Hard
+
 297	Serialize and Deserialize Binary Tree  	Hard
+
 298	Binary Tree Longest Consecutive Sequence  	Medium
+
 300	Longest Increasing Subsequence  	Medium
 		
 304	Range Sum Query 2D - Immutable  	Medium
+
 307	Range Sum Query - Mutable  	Medium
+
 309	Best Time to Buy and Sell Stock with Cooldown  	Medium
+
 311	Sparse Matrix Multiplication  	Medium
+
 314	Binary Tree Vertical Order Traversal  	Medium
+
 318	Maximum Product of Word Lengths  	Medium
+
 319	Bulb Switcher  	Medium
+
 323	Number of Connected Components in an Undirected Graph  	Medium
+
 324	Wiggle Sort II  	Medium
+
 325	Maximum Size Subarray Sum Equals k  	Medium
+
 328	Odd Even Linked List  	Medium
+
 331	Verify Preorder Serialization of a Binary Tree  	Medium
+
 333	Largest BST Subtree  	Medium
+
 334	Increasing Triplet Subsequence  	Medium
+
 337	House Robber III  	Medium
+
 338	Counting Bits  	Medium
+
 339	Nested List Weight Sum  	Easy
+
 340	Longest Substring with At Most K Distinct Characters  	Hard
+
 341	Flatten Nested List Iterator  	Medium
+
 342	Power of Four  	Easy
+
 343	Integer Break  	Medium
+
 344	Reverse String  	Easy
+
 346	Moving Average from Data Stream  	Easy
+
 347	Top K Frequent Elements  	Medium
+
 348	Design Tic-Tac-Toe  	Medium
+
 349	Intersection of Two Arrays  	Easy
+
 350	Intersection of Two Arrays II  	Easy
+
 354	Russian Doll Envelopes  	Hard
+
 355	Design Twitter  	Medium
+
 359	Logger Rate Limiter  	Easy
+
 362	Design Hit Counter  	Medium
+
 366	Find Leaves of Binary Tree  	Medium
+
 373	Find K Pairs with Smallest Sums  	Medium
+
 378	Kth Smallest Element in a Sorted Matrix  	Medium
+
 387	First Unique Character in a String  	Easy
