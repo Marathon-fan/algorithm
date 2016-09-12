@@ -443,47 +443,89 @@ chapter16—Threads and Locks
 2Add Two Numbers Medium
 
 3	Longest Substring Without Repeating Characters  	Medium
+
 4	Median of Two Sorted Arrays  	Hard
+
 5	Longest Palindromic Substring  	Medium
+
 6	ZigZag Conversion  	Easy
+
 7	Reverse Integer  	Easy
+
 10	Regular Expression Matching  	Hard
+
 11	Container With Most Water  	Medium
+
 12	Integer to Roman  	Medium
+
 14	Longest Common Prefix  	Easy
+
 15	3Sum  	Medium
+
 16	3Sum Closest  	Medium
+
 17	Letter Combinations of a Phone Number  	Medium
+
 20	Valid Parentheses  	Easy
+
 21	Merge Two Sorted Lists  	Easy
+
 22	Generate Parentheses  	Medium
+
 23	Merge k Sorted Lists  	Hard
+
 26	Remove Duplicates from Sorted Array  	Easy
+
 29	Divide Two Integers  	Medium
+
 31	Next Permutation  	Medium
+
 32	Longest Valid Parentheses  	Hard
+
 34	Search for a Range  	Medium
+
 41	First Missing Positive  	Hard
+
 42	Trapping Rain Water  	Hard
+
 46	Permutations  	Medium
+
 47	Permutations II  	Medium
+
 49	Group Anagrams  	Medium
+
 50	Pow(x, n)  	Medium
+
 53	Maximum Subarray  	Medium
+
 54	Spiral Matrix  	Medium
+
 55	Jump Game  	Medium
+
 56	Merge Intervals  	Hard
+
 66	Plus One  	Easy
+
 69	Sqrt(x)  	Medium
+
 72	Edit Distance  	Hard
+
 73	Set Matrix Zeroes  	Medium
+
 74	Search a 2D Matrix  	Medium
+
 75	Sort Colors  	Medium
+
 76	Minimum Window Substring  	Hard
+
 78	Subsets  	Medium
+
 79	Word Search  	Medium
+
 80	Remove Duplicates from Sorted Array II  	Medium
+
 84	Largest Rectangle in Histogram  	Hard
+
 85	Maximal Rectangle  	Hard
 86	Partition List  	Medium
 88	Merge Sorted Array  	Easy
