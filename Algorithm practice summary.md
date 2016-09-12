@@ -401,13 +401,48 @@ chapter9 - Bonus - Object Oriented Design
 
 
 
-##leetcode(185 completed)
+
+##CC150
 
 
+chapter1--Arrays and Strings
+
+chapter2—Linked Lists
+
+chapter3—Stacks and Queues
+
+chapter4—Trees and Graphs
+
+chapter5—Bit Manipulation
+
+chapter6—Brain Teasers
+
+chapter7—Mathematics and probability
+
+chapter8—Object-Oriented Design
+
+chapter9—Recursion and Dynamic Programming
+
+chapter10—Scalability and Memory Limits
+
+chapter11—Sorting and Searching
+
+chapter12—Testing
+
+chapter13—C and C++
+
+chapter14—Java
+
+chapter15—Databases
+
+chapter16—Threads and Locks
+
+
+##leetcode-185 completed
 1Two Sum Easy
-2Add Two Numbers  Medium
+2Add Two Numbers Medium
 3Longest Substring Without Repeating Characters Medium
-4	Median of Two Sorted Arrays  	Hard
+4Median of Two Sorted Arrays Hard
 5	Longest Palindromic Substring  	Medium
 6	ZigZag Conversion  	Easy
 7	Reverse Integer  	Easy
@@ -592,43 +627,6 @@ chapter9 - Bonus - Object Oriented Design
 378	Kth Smallest Element in a Sorted Matrix  	Medium
 387	First Unique Character in a String  	Easy
 	
-##CC150
-
-
-chapter1--Arrays and Strings
-
-chapter2—Linked Lists
-
-chapter3—Stacks and Queues
-
-chapter4—Trees and Graphs
-
-chapter5—Bit Manipulation
-
-chapter6—Brain Teasers
-
-chapter7—Mathematics and probability
-
-chapter8—Object-Oriented Design
-
-chapter9—Recursion and Dynamic Programming
-
-chapter10—Scalability and Memory Limits
-
-chapter11—Sorting and Searching
-
-chapter12—Testing
-
-chapter13—C and C++
-
-chapter14—Java
-
-chapter15—Databases
-
-chapter16—Threads and Locks
-
-
-
 
 
 
