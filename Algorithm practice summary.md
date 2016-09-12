@@ -437,13 +437,11 @@ chapter15—Databases
 
 chapter16—Threads and Locks
 
+#leetcode-185 completed
 
-leetcode--185 completed
-leetcode(185 completed)
+1Two Sum Easy
+2Add Two Numbers Medium
 
-#	Title	Difficulty
-1	Two Sum  	Easy
-2	Add Two Numbers  	Medium
 3	Longest Substring Without Repeating Characters  	Medium
 4	Median of Two Sorted Arrays  	Hard
 5	Longest Palindromic Substring  	Medium
