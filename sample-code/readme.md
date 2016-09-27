@@ -1,1 +1,1 @@
-Please see the sample here.
+Please see the java sample here.
